@@ -1,0 +1,131 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+div.top {
+  display: flex;
+  align-items: center;
+  align-items: space-between;
+}
+h1 {
+  font-family: 'Merienda', cursive;
+  font-size: 64px;
+  padding-top: 3%;
+  padding-right: 15%;
+  padding-left: 3%;
+  padding-bottom: 3%;
+  width: 600px;
+}
+nav {
+  display: flex;
+  width: 400px;
+  height: 40px;
+}
+nav a {
+  font-family: 'Muli', sans-serif;
+  font-size: 26px;
+  color: #2F2F2F;
+  text-decoration: none;
+  padding-right: 2%;
+  justify-content: center;
+}
+div.btn {
+  width: 25%;
+  border-radius: 10px;
+  height: 33px;
+  font-size: 1.3rem;
+  border: 1px solid #FF7300;
+  background-color: #FF7300;
+}
+.btm-header {
+  background-color: #FF7300;
+}
+.btm-header h2 {
+  font-size: 36px;
+  color: #2F2F2F;
+  font-family: 'Merienda', cursive;
+}
